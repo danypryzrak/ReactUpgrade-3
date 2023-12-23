@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactUpgrade-3/static/css/main.6769f3ac.css",
+    "main.js": "/ReactUpgrade-3/static/js/main.fb26bb7e.js",
+    "index.html": "/ReactUpgrade-3/index.html",
+    "main.6769f3ac.css.map": "/ReactUpgrade-3/static/css/main.6769f3ac.css.map",
+    "main.fb26bb7e.js.map": "/ReactUpgrade-3/static/js/main.fb26bb7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6769f3ac.css",
+    "static/js/main.fb26bb7e.js"
+  ]
+}
