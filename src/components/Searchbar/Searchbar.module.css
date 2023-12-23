@@ -1,0 +1,26 @@
+.searchbar {
+  height: 100px;
+  background-color: rgb(0, 60, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  border: none;
+  height: 40px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.input {
+  border: none;
+  height: 40px;
+  width: 200px;
+  box-sizing: border-box;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  &:focus {
+    outline: none;
+  }
+}
